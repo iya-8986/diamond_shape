@@ -1,4 +1,4 @@
-#author__uy_thea
+#author__uy_thea_p
 #date__September_26_2024
 
 #Write a Python function named print_diamond that takes an odd integer n as an argument and prints a diamond shape with a width of n using the * character.
